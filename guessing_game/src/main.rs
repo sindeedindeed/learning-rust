@@ -5,7 +5,6 @@ use rand::Rng;
 fn main() {
     println!("Guess the number!");
     let secret_number = rand::thread_rng().gen_range(1..=100);
-    println!("The secret number is: {secret_number}");
     loop {
         println!("Please input your guess.");
         let mut guess = String::new(); // new is an associated function - implemented on the string type
@@ -13,10 +12,10 @@ fn main() {
             .read_line(&mut guess)
             .expect("Failed to read line");
 
-        let guess: u32 = guess // shadowing previous value, i.e - typecasting into existing variable
-            .trim()
-            .parse()
-            .expect("Please type a number");
+        let guess: u32 = match guess.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        };
 
         println!("You guessed: {guess}");
 
