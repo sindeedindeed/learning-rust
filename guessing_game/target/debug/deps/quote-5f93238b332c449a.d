@@ -1,0 +1,11 @@
+C:\Users\maish\Desktop\learning-rust\guessing_game\target\debug\deps\libquote-5f93238b332c449a.rmeta: C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\lib.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ext.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\format.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ident_fragment.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\to_tokens.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\runtime.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\spanned.rs
+
+C:\Users\maish\Desktop\learning-rust\guessing_game\target\debug\deps\quote-5f93238b332c449a.d: C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\lib.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ext.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\format.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ident_fragment.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\to_tokens.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\runtime.rs C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\spanned.rs
+
+C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\lib.rs:
+C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ext.rs:
+C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\format.rs:
+C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ident_fragment.rs:
+C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\to_tokens.rs:
+C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\runtime.rs:
+C:\Users\maish\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\spanned.rs:
